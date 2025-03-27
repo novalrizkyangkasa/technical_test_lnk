@@ -20,6 +20,8 @@
 ### 🚀 How to Run Tests
    ```bash
    npx cypress open
+   <img width="840" alt="Screenshot at Mar 27 11-32-19" src="https://github.com/user-attachments/assets/dab621da-296f-4be3-8c8b-a6a17bf59256" />
+
    ```
    
 ### 📄 Documentation
