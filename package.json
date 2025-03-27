@@ -1,0 +1,28 @@
+{
+  "name": "technical_test_lnk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:with-allure": "cypress run --env allure=true",
+    "allure:generate": "allure generate allure-results --clean -o allure-report",
+    "allure:open": "allure open allure-report",
+    "test:report": "npm run test:with-allure && npm run allure:generate && npm run allure:open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novalrizkyangkasa/technical_test_lnk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novalrizkyangkasa/technical_test_lnk/issues"
+  },
+  "homepage": "https://github.com/novalrizkyangkasa/technical_test_lnk#readme",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "allure-commandline": "^2.33.0",
+    "cypress": "^14.2.1"
+  }
+}
