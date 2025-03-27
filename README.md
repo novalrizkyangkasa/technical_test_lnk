@@ -1,5 +1,5 @@
 
-# Cypress Automation Test - Microsoft 365 Office
+# Cypress Automation Test - Microsoft 365 Office (Online Form)
 
 ### 🛠️ Tech Stack
 - [Cypress](https://www.cypress.io/)
@@ -33,7 +33,7 @@ You can run with 2 this file :
 ![image](https://github.com/user-attachments/assets/cbe424d1-6c46-4687-b95f-90a5a1538d43)
    
 ### 📄 Documentation
-You can find additional information and process details in the following Google Docs document:
+You can find additional information, Recorded Video during preview, and process details in the following Google Docs document:
 ```bash
 https://docs.google.com/document/d/1fyT7yP2PBAdre3lOm6soAB4SJ3kSHYiizvE7q46tKQg/edit?usp=sharing 
 ```
